@@ -7,4 +7,4 @@ components/*/__tests__/type.tsx
 # Docs templates
 site/theme/template/IconDisplay/*.js
 site/theme/template/IconDisplay/*.jsx
-f
+
